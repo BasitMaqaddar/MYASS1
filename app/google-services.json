@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531505074714",
+    "project_id": "myass-8739b",
+    "storage_bucket": "myass-8739b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531505074714:android:bed817a2dcd686dea977a3",
+        "android_client_info": {
+          "package_name": "com.example.myass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531505074714-88f95ipfjlst5ehsotf0aktl3o8uaj8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62sjNZdxcZBZM0eXDSAz07SWX27RmDAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531505074714-88f95ipfjlst5ehsotf0aktl3o8uaj8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
